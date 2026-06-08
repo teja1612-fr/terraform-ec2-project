@@ -1,4 +1,4 @@
-Terraform AWS EC2 Project
+# Terraform AWS EC2 Project
 
 ## What This Does
 
